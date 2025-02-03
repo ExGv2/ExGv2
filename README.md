@@ -8,8 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ExGv2/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ExGv2/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ExGv2/azure-network-protocols)
-
+  
  - <b>Virtual Private Network in Microsoft Azure VM<b>
    -  [VPN configuration in Virtual Machine Environment](https://github.com/ExGv2/VPN-Usage)
 
