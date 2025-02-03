@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel, an <a href="https://linkedin.com/in/emmanuel-guzman">IT Professional</a>☺</h1>
+<h1>Hi, I'm Emmanuel, an <a href="https://linkedin.com/in/emmanuel-guzman">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ExGv2/configure-ad)
   
- - <b>Virtual Private Network in Microsoft Azure VM<b>
+ - <b>Virtual Private Network in Microsoft Azure VM</b>
    -  [VPN configuration in Virtual Machine Environment](https://github.com/ExGv2/VPN-Usage)
 
 <h2>🤳Connect with me:</h2>
