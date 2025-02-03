@@ -10,6 +10,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ExGv2/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ExGv2/azure-network-protocols)
 
+ - <b>Virtual Private Network in Microsoft Azure VM<b>
+   -  [VPN configuration in Virtual Machine Environment](https://github.com/ExGv2/VPN-Usage)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" />][linkedin]
